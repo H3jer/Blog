@@ -1,0 +1,20 @@
+/*footer*/
+
+#footer {
+    padding-top: 5px; 
+    padding-bottom: 0px;
+  
+  }
+  
+  .white {
+  color:#fff
+  }
+  .white-bg {
+    background-color: #fff;
+  }
+  
+  #footer a {
+    color: #be9e21;
+    font-weight: 400;
+  }
+  
